@@ -1,5 +1,23 @@
-### Hi there 👋
 
+<p align="center"><img src="https://user-images.githubusercontent.com/91353587/162475833-99e48451-bc03-4088-90b1-8f9c310ce8ba.gif" alt="animated" /> </p><br>
+
+
+ Hi, I am a student who is starting in the world of programming, I like web design and I would like to continue learning and doing more and more projects 👋
+
+```js
+const Feliperz = {
+  location : [Nayarit, Mexico],
+  code: [Html, Css, JavaScript],
+  institution: [ITTEPIC],
+  likes: {
+        music: "Pop" | "Rock",
+        books: "Authors:["Edgar Allan Poe", "Stephen King"],
+        sports: "basketball"
+  },
+  challeng: "I want to learn more and more day by day" 
+  
+}
+```
 <!--
 **Feliperz/Feliperz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
